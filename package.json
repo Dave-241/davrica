@@ -1,11 +1,12 @@
 {
-  "name": "safarika",
+  "name": "davrica",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "rm -rf ./development && rm -rf ./.cache && parcel src/index.html --out-dir development -p 3000",
-    "build": "parcel build src/index.html --out-dir dist --public-url ./"
+    "build": "parcel build src/index.html --out-dir dist --public-url ./",
+    "babel": "babel src -d dist "
   },
   "keywords": [],
   "author": "",
