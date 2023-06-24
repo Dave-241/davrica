@@ -1,3 +1,3 @@
 # davrica
 
-Take a glimpse of Africa’s bewitching attractions
+Discover the best in africa
